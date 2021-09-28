@@ -1,5 +1,5 @@
-# AUTHENTICATION SERVICE
+# Authentiocation service
 
 Authentiocation service for micro-service architecture
 
-## TECHNOLOGIES
+## Used technologies
